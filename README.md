@@ -10,6 +10,7 @@ Le but de l'extension est de pouvoir remettre ces femmes en lumière.
 
 :triangular_flag_on_post: => Lorsque l'utilisateur navigue sur internet, son utilisation est en partie transparente. Les pages sont systématiquement lues par l'extension.
 Si une page concerne l'une de ces femmes oubliées par la science, ou reconnues quelques décennies trop tard, une alerte va se créer en bas à droite de la fenêtre.
+
 => Pour éviter toute ambiguïté avec des homonymes, des mots clés supplémentaires doivent aussi être présents dans la page.
 
 <br/>
