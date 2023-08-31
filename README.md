@@ -14,7 +14,7 @@ Si une page concerne l'une de ces femmes oubliées par la science, ou reconnues 
 <br/>
 <br/>
 
-![cover](https://github.com/clem0316/Iceberg_Extension_Chrome/blob/f503ced460ded4c86bb28c428735e079cd698842/img/Image%2031-08-2023%20a%CC%80%2012.08.jpg)
+![cover](https://github.com/clem0316/Iceberg_Extension_Chrome/blob/2d184ee4dca7a6ae0ee10f87d14008d377a44425/img/Image%2031-08-2023%20%C3%A0%2012.08.jpg)
 
 <br/>
 
