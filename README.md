@@ -33,4 +33,4 @@ nb) => Pour éviter toute ambiguïté avec des homonymes, des mots clés supplé
 
 ### :hammer: Prochains objectifs
 
-Actuellement, notre "base de données" est réduite à un document JSON. Notre but est de créer un back et une base de données collaborative et permettre à divers utilisateurs de pouvoir alimenter cette base. 
+Actuellement, notre "base de données" est réduite à un document JSON. Notre but est de créer un back et une base de données collaborative et permettre à divers utilisateurs de pouvoir contribuer et alimenter cette base. 
