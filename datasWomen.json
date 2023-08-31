@@ -1,0 +1,133 @@
+{
+  "correspondance": [
+    {
+      "manFirstName": "James",
+      "manLastName": "Watson",
+      "tags": ["ADN", "DNA", "genetique", "genetic"],
+      "womanFirstName": "Rosalind",
+      "womanLastName": "Franklin",
+      "womanFullname": "Rosalind Franklin",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "Francis",
+      "manLastName": "Crick",
+      "tags": ["ADN", "DNA", "genetique", "genetic"],
+      "womanFirstName": "Rosalind",
+      "womanLastName": "Franklin",
+      "womanFullname": "Rosalind Franklin",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "Jérôme",
+      "manLastName": "Lejeune",
+      "tags": ["chromosome", "trisomie", "trisomy"],
+      "womanFirstName": "Marthe ",
+      "womanLastName": "Gautier",
+      "womanFullname": "Marthe Gauthier",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "Albert",
+      "manLastName": "Einstein",
+      "tags": [
+        "physique",
+        "mathematiques",
+        "physical",
+        "mathematics",
+        "maths",
+        "E=mc²",
+        "relativité",
+        "relativity"
+      ],
+      "womanFirstName": "Mileva",
+      "womanLastName": "Einstein",
+      "womanFullname": "Mileva Einstein",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "Otto",
+      "manLastName": "Hahn",
+      "tags": [
+        "chimie",
+        "chimiste",
+        "physique",
+        "physicien",
+        "nobel",
+        "fission",
+        "nucléaire",
+        "chemistry",
+        "chemical",
+        "physician",
+        "nuclear"
+      ],
+      "womanFirstName": "Lise",
+      "womanLastName": "Meitner",
+      "womanFullname": "Lise Meitner",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "Fritz",
+      "manLastName": "Strassman",
+      "tags": [
+        "chimie",
+        "chimiste",
+        "physique",
+        "physicien",
+        "nobel",
+        "fission",
+        "nucléaire",
+        "chemistry",
+        "chemical",
+        "physician",
+        "nuclear"
+      ],
+      "womanFirstName": "Lise",
+      "womanLastName": "Meitner",
+      "womanFullname": "Lise Meitner",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "Charles",
+      "manLastName": "Babbage ",
+      "tags": [
+        "Bernoulli",
+        "mathematics",
+        "mathématiques",
+        "maths",
+        "informatique",
+        "computer",
+        "programming"
+      ],
+      "womanFirstName": "Ada",
+      "womanLastName": "Lovelace",
+      "womanFullname": "Ada Lovelace",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "",
+      "manLastName": "",
+      "tags": [],
+      "womanFirstName": "",
+      "womanLastName": "",
+      "description": "",
+      "wikiApi": ""
+    },
+    {
+      "manFirstName": "",
+      "manLastName": "",
+      "tags": [],
+      "womanFirstName": "",
+      "womanLastName": "",
+      "description": "",
+      "wikiApi": ""
+    }
+  ]
+}

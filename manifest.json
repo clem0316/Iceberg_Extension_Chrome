@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "Iceberg",
+  "version": "1.0",
+  "description": "Remettre sur le devant de la scène les contributions scientifiques des femmes.",
+
+  "content_scripts": [
+    {
+      "css": ["scripts/style.css"],
+      "js": ["scripts/correspondance.js", "scripts/content.js"],
+      // On peut mettre plusieurs fichiers JS dans l'extension, l'ordre des fichiers a son importance. Dans correspondance.js on a écrit un tableau (équivalent à un document json). Notre script lira d'abord correspondance.js, puis content.js
+      // De cette manière, on aura accès à notre tableau de correspondance.js dans content.js
+      "matches": [
+        "https://developer.chrome.com/docs/extensions/*",
+        "https://developer.chrome.com/docs/webstore/*",
+        "https://*/*"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "images/iceberg.png",
+        "images/milenaEinstein.jpg",
+        "images/flou.jpg",
+        "images/Rosalind.jpeg",
+        "images/Meitner.jpeg",
+        "images/Gauthier.jpeg",
+        "images/AdaLovelace3.png",
+        "images/jjv.jpg",
+        "images/fabricevalmont.jpg",
+        "images/Jessamelie.jpg",
+        "images/Coralinejadeau.png",
+        "images/fondpng.png",
+        "images/fond2png.png",
+        "images/goku.jpeg"
+      ],
+      "matches": ["https://*/*"]
+    }
+  ],
+  "icons": {
+    "16": "images/iceberg.png"
+  }
+}
